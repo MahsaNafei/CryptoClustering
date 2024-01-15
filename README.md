@@ -63,22 +63,18 @@ The trade-off between computational efficiency and information retention is high
 
 The cryptocurrency market data used in this analysis is sourced from [Resouces](https://github.com/MahsaNafei/CryptoClustering/blob/main/Resources/crypto_market_data.csv). Ensure that you comply with the terms of use and licensing agreements associated with the data source.
 
-## Instructions
+### Instructions
 
-1. **Install Dependencies:**
+1. Install Dependencies:
    - Ensure you have Python installed on your machine.
-   - Install the required Python libraries using the following command:
-     ```bash
-     pip install pandas hvplot scikit-learn
-     ```
+   - Install the required Python libraries 
 
-
-2. **Run the Jupyter Notebook:**
+2. Run the Jupyter Notebook:
    - Open the "crypto_market_analysis.ipynb" notebook.
 
-3. **Execute the Code:**
+3. Execute the Code:
    - Run each cell in the notebook sequentially to execute the analysis step by step.
 
-4. **Review Results:**
+4. Review Results:
    - Review the visualizations and analysis results in the notebook to gain insights into cryptocurrency market clusters and patterns.
 
