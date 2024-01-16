@@ -78,3 +78,6 @@ The cryptocurrency market data used in this analysis is sourced from [Resouces](
 4. Review Results:
    - Review the visualizations and analysis results in the notebook to gain insights into cryptocurrency market clusters and patterns.
 
+
+![3D PCA image](images/plot.png)
+
